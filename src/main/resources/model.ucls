@@ -3,7 +3,7 @@
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
   <class id="1" language="java" name="pkgMath.MyInteger" project="PS2" file="/PS2/src/main/java/pkgMath/MyInteger.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="332" width="177" x="34" y="-76"/>    
+    <position height="-1" width="-1" x="177" y="160"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
